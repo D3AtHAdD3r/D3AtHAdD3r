@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @D3AtHAdD3r
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- in lots of forums its written to use NtWow64QueryInformationProcess64 for x64 but turn out NtWow64QueryInformationProcess64 is not anymore and NtQueryInformationProcess() works for both 32 and 64 bit architecture.
+In 64 bit u have to declare a new PROCESS_BASIC_INFORMATION64 struct and pass its pointer in the ntquery func
 - 📫 How to reach me ... @discord: unknownJoker49#3322  
 
 <!---
