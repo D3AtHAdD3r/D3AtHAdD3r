@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @D3AtHAdD3r
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @D3AtHAdD3r.
 - 📫 How to reach me ... @discord: unknownJoker49#3322  
 
 <!---
