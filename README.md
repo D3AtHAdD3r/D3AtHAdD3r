@@ -1,7 +1,33 @@
 - 👋 Hi, I’m @D3AtHAdD3r.
-- 📫 How to reach me ... @discord: unknownJoker49#3322  
+- 📫 How to reach me ... @discord: unknownJoker49#3322,  theunknownjoker49@gmail.com
 
-<!---
-D3AtHAdD3r/D3AtHAdD3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Programming Languages
+- C
+- C++
+- x86-64 Assembly
+- JavaScript
+- Rust(partial)
+  
+#### Front-End languages and FrameWorks
+- Javascript
+- HTML, CSS
+- React.js
+  
+#### Graphic APIs
+- DX12
+- DX11
+- OpenGl(partial)
+- Vulkan(partial)
+
+### Projects I am working on
+
+#### My GameEngine
+- Graphic Engine(Alpha - Dx12, Dx11)
+- Physics Engine(Pre-Alpha)
+- Sound engine(Pre-Alpha) 
+
+### Past Projects
+#### Security Research projects
+- Windows Internals & Reversing
+- Windows Kernel Internals 
+
