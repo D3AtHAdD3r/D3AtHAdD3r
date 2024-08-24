@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @D3AtHAdD3r.
-- 📫 How to reach me ... @discord: unknownJoker49#3322,  theunknownjoker49@gmail.com
 
 ### Programming Languages
 - C
@@ -29,5 +28,7 @@
 ### Past Projects
 #### Security Research projects
 - Windows Internals & Reversing
-- Windows Kernel Internals 
+- Windows Kernel Internals
+
+- 📫 How to reach me ... @discord: unknownJoker49#3322,  theunknownjoker49@gmail.com
 
