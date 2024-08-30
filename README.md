@@ -4,7 +4,6 @@
 - C
 - C++
 - x86-64 Assembly
-- JavaScript
 - Rust(partial)
   
 #### Front-End languages and FrameWorks
