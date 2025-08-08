@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m @D3AtHAdD3r.
 
+FUCK YOU ALL
+
 ### Programming Languages
 - x86-64 Assembly
 - C
