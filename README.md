@@ -23,7 +23,7 @@
 - Computer Graphics Programming: Studied extensively using Frank Luna’s DX11 and DX12 books.
 - Supporting Math Skills: Relearned and applied Trigonometry, Linear Algebra, and Calculus (particularly for volume rendering).
 
-- #### Neural Networks
+#### Neural Networks
 - Current Learning: Actively studying from the ground up, with support from prior collaborative sessions.
 - Math Skills: Deepening my understanding of Calculus to support neural network development.
 
